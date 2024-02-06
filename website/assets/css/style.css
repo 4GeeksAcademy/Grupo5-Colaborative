@@ -1,3 +1,24 @@
 body{
-    background: #BDBDBD;
+    /*background: #BDBDBD;*/
+    background: white;
 }
+
+/* estilo para la carta rafael*/
+.card {
+    background-color: transparent;
+    border: 0;}
+
+.card-img, .card-img-top {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;}
+
+
+div.card img{width: 100%;
+    height: 400px;
+}
+
+.small-text {
+    font-size: 14px;
+}
+
+/* aca termina el estilo de la carta */
